@@ -1,0 +1,5 @@
+*.bam
+*.fastq.gz
+results/
+tmp/
+*.ipynb_checkpoints
